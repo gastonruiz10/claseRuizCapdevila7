@@ -1,0 +1,39 @@
+[
+    {
+        "nombre": "Buzo Child",
+        "talle": "Talle Unico",
+        "precio": 7500,
+        "img": "1.jpg"
+    },
+    {
+        "nombre": "Remera Attitiude",
+        "talle": "Talle Unico",
+        "precio": 3000,
+        "img": "2.jpg"
+    },
+    {
+        "nombre": "Remera Bitch",
+        "talle": "Talle Unico",
+        "precio": 3000,
+        "img": "3.jpg"
+    },
+    {
+        "nombre": "Buzo Pink",
+        "talle": "Talle Unico",
+        "precio": 7000,
+        "img": "4.jpg"
+    },
+    {
+        "nombre": "Buzo Bowie",
+        "talle": "Talle Unico",
+        "precio": 7500,
+        "img": "5.jpg"
+    },
+    {
+        "nombre": "Remera Bowie",
+        "modelo": "Talle Unico",
+        "precio": 4000,
+        "img": "6.jpg"
+    }
+
+]
